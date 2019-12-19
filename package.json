@@ -24,7 +24,7 @@
       "devDependencies": {
         "mocha": "~1.17.1",
         "barrels": "0.0.2",
-        "supervisor": "0.5.6"
+        "supervisor": "0.12.0"
       },
     "scripts": {
         "start": "node app.js",
