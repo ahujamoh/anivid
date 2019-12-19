@@ -18,7 +18,7 @@
         "sails-mongo": "0.9.4",
         "nodemailer": "*",
         "passport-facebook": "~1.0.2",
-        "passport-google-oauth": "0.1.5",
+        "passport-google-oauth": "2.0.0",
         "paypal-rest-sdk": "*"
     },
       "devDependencies": {
