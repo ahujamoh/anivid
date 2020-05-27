@@ -6,7 +6,7 @@
     "dependencies": {
         "sails": "0.9.9",
         "grunt": "0.4.1",
-        "sails-disk": "~0.9.0",
+        "sails-disk": "~2.1.0",
         "ejs": "0.8.4",
         "optimist": "0.3.4",
         "passport": "*",
