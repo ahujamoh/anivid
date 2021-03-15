@@ -22,7 +22,7 @@
         "paypal-rest-sdk": "*"
     },
       "devDependencies": {
-        "mocha": "~1.17.1",
+        "mocha": "~8.3.2",
         "barrels": "0.0.2",
         "supervisor": "0.5.6"
       },
